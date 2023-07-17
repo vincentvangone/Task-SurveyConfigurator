@@ -11,10 +11,10 @@ Naming Conventions:
 
 Return Codes:
 - 1 success
--3 failed database connection
--2 no type
--4 no text 
--5 failed insertion
+- 3 failed database connection
+- 2 no type
+- 4 no text 
+- 5 failed insertion
 -6 failed deleetion
 -7 failed update
  
